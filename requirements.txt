@@ -1,0 +1,11 @@
+# Core dependencies for Grok Multi-Model Chat Agent
+requests>=2.31.0
+PyYAML>=6.0.1
+colorama>=0.4.6
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed:
+# rich>=13.0.0          # Enhanced terminal formatting and progress bars
+# click>=8.1.0          # Alternative CLI framework (if switching from argparse)
+# python-dotenv>=1.0.0  # Load environment variables from .env files
+# cryptography>=41.0.0  # For encrypted secret storage (future enhancement)
